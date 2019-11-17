@@ -1,5 +1,5 @@
-/* eslint-disable linebreak-style */
 /* eslint-disable no-console */
+
 import '@babel/polyfill';
 import express from 'express';
 import bodyparser from 'body-parser';
