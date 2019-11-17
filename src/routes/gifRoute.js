@@ -21,4 +21,4 @@ route.post(
 route.delete('/gifs/:id', JWT.authenticate, GifController.deleteGif);
 route.get('/gifs/:id', JWT.authenticate, GifController.getSpecificGif);
 
-export  default route;
+export default route;
