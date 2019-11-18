@@ -1,1 +1,1 @@
-# teamwork-project [![Build Status](https://travis-ci.com/eizodann/teamwork-project.svg?branch=develop)](https://travis-ci.com/eizodann/teamwork-project)
+# teamwork-project [![Build Status](https://travis-ci.com/eizodann/teamwork-project.svg?branch=develop)](https://travis-ci.com/eizodann/teamwork-project) [![Coverage Status](https://coveralls.io/repos/github/eizodann/teamwork-project/badge.svg?branch=develop)](https://coveralls.io/github/eizodann/teamwork-project?branch=develop)
