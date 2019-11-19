@@ -12,5 +12,6 @@ notifications:
     on_failure: always # default: always
 before_script:
   - psql -c 'create database test_database;' -U postgres
-after_script:
+# after_script:
+after_success:
   - npm run test_coverage
