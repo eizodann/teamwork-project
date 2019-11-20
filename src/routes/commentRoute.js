@@ -4,7 +4,7 @@ import JWT from '../middlewares/jsonWebToken';
 
 const route = Router();
 
-// rem
+// re
 
 route.post(
   '/articles/:id/comment',
